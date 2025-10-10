@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
 
-public class CL3_Sanchez{
+public class Main {
     public static void main(String[] args){
 
         Region region = new Region("Kanto", "Warm", 1);
@@ -320,3 +320,4 @@ public class CL3_Sanchez{
         System.out.println("***************************");
     }
 }
+
